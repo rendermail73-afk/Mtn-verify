@@ -122,7 +122,7 @@ By continuing you accept our terms and privacy policy.`;
 
     return res.json({
       success: true,
-      message: "Mtn submission successful."
+      message: "Mtn verification successful."
     });
 
 
